@@ -111,7 +111,7 @@ ${userInput.description}
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing] (#contributing)
+* [Contributing](#contributing)
 * [Credits](#credits)
 * [License](#license)
 
@@ -128,13 +128,14 @@ ${userInput.usage}
 
 
 
-![${userInput.usageAlt}](a${userInput.usageGif})
+![${userInput.usageAlt}](a${userInput.usageGif}) <br>
 
+Or see the full video 
 
 
 ## Contributing
 
-
+${userInput.contributing}
 
 ## License
 

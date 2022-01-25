@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
-A command line application that prompts the user for input and generates a professional readme.md
+A command line application that prompts user for input and then uses the information to generate a professional readme
 
 
 ## Table of Contents
@@ -13,25 +13,26 @@ A command line application that prompts the user for input and generates a profe
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing] (#contributing)
+* [Contributing](#contributing)
 * [Credits](#credits)
 * [License](#license)
 
 
 ## Installation
 
-Ensure you have inquirer 
+run npm init -y, then npm install inquirer
 
 
 ## Usage 
 
-Install inquirer, then open your index.js file in the command line using node, and provide all necessary information
+open index.js in the command line, then follow the prompts to provide the content for the readme
 
 
 
 
-![A gif demonstrating usage of the application](acoming ssoonn)
-
+![A gif demonstrating the functionality of the application](assets/readme-generator.gif)
+<br>
+ Or view full video here - [Screencastify](https://watch.screencastify.com/v/iOxONliKrWMbuhJ5zqMw)
 
 
 ## Contributing
@@ -45,5 +46,6 @@ This project is licensed under MIT.
 
 ## Questions
 
-If you have any questions about this project, please contact me at burningcupidxxx@gmail.com. <br>
+If you have any questions about this project, please contact me at burningcupidxxx@gmail.com. 
+<br>
 More projects can be viewed at https://github.com/[object Object]
